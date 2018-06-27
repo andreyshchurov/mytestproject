@@ -14,6 +14,8 @@ using PsHellowAzure.Services;
 
 namespace PsHellowAzure
 {
+	// some changes in this file 
+	// another comment 2
     public class Startup
     {
         public Startup(IConfiguration configuration)
